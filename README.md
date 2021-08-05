@@ -55,7 +55,6 @@ IoT devices today use a number of different technologies to support their commun
 
 Bluetooth devices allow local communication but has very limited range in version 4.0. They also require too much power. Even newer Bluetooth Low Energy devices still consume much more power than is necessary. Up to recently the best available technology on the market was considered to be ZigBee low power modules that transmit over greater distances and at low transfer rates, usually a few kilometers in clear path.
 
-What is LoRa?
 
 LoRa technology was developed by a company called Semtech and it is a new wireless protocol designed specifically for long-range, low-power communications. LoRa stands for Long Range Radio and is mainly targeted for M2M and IoT networks. This technology will enable public or multi-tenant networks to connect a number of applications running on the same network.
 
