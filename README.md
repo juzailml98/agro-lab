@@ -1,6 +1,6 @@
 # agro-lab
-agricultural monitoring project 
-This project is intend to collect soil data and display the data collected in a website
+<p>an agricultural monitoring project </p>
+<p>This project is intend to collect soil data and display the data collected in a website</p>
 # application scenario
 <ol>
   <li>Collection of data in sensor nodes</li>
