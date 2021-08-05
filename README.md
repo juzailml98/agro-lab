@@ -1,2 +1,2 @@
 # agro-lab
-this is a agricultural monitoring project
+agricultural monitoring project 
